@@ -4,4 +4,7 @@ kheer
 pasta
 chicken
 
+pizza
+puri
+
 Thank you
