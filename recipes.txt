@@ -4,6 +4,12 @@ kheer
 pasta
 chicken
 
+pizza
+puri
+
 Thank you
+
+
+Done my changes
 
 Final copy
